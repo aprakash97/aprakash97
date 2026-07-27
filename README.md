@@ -3,7 +3,7 @@
 Software Engineer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://portfolio.akrhub.co/)                                                 
-- 🌱 I'm currently working on JavaScript and TypeScript-based full-stack projects.
+- 🌱 I started my journey in frontend development and I'm now expanding into full-stack engineering and AI to create more complete, impactful projects.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prakash-anandakumar-8120931b9/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/prakash_anandakumar/)
 
